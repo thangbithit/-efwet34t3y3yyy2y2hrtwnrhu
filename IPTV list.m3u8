@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="AU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/ABCEntertainsIviewIcon.png" group-title="General",ABC Entertains Australia
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-country="AU" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.HFIrs06QPE0VL3pNXx3d7wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Kckm5dS-NDHPtHnvUY7Z5wAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",ABC News Live
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
+#EXTINF:-1 tvg-country="AU" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png" group-title="General",ABC TV Australia
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 tvg-country="INT" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Comedy",AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-country="QA" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="News",Al Jazeera English
+https://jmp2.uk/stvp-IT23000034W
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.OWpH3fd9pwH9lx4-gexoGQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Amarin TV
+http://183.89.246.119:49981/stream/channelid/71923341?profile=pass
+#EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="General",Arirang
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250" group-title="General",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News International
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/vbTj9LK420MBOFmbWykvz/d019ea21d4c44ef6a52bc2f4e6fba3e2/BloombergOriginals_LOGO.png.d019ea21d4c44ef6a52bc2f4e6fba3e2.png" group-title="News",Bloomberg Originals
+https://live-qt-primary.global.ssl.fastly.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg" group-title="News",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-country="CA" tvg-logo="https://www.cbc.ca/newsapp/content/images/CBC_News_App_Icon_Updated.png" group-title="News",CBC News
+https://jmp2.uk/stvp-CABC2300009KD
+#EXTINF:-1 tvg-country="US" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/77/5f/1c775f81-50c2-7fab-92da-f641ded8761a/App_Icon_-_Small-marketing.lsr/600x600bb.jpg" group-title="News",CBS News 24/7
+https://jmp2.uk/stvp-USBA370000104
+#EXTINF:-1 tvg-country="US" tvg-logo="https://media.licdn.com/dms/image/sync/v2/C4E27AQHMiId1XikKtQ/articleshare-shrink_800/articleshare-shrink_800/0/1734991554466?e=2147483647&v=beta&t=q68RhyqoXknUhJBaOZmqanMIPMz8RoawbWVr9nAukYk" group-title="News",CBS News Bay Area
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master_2.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://pbs.twimg.com/profile_images/1642886426663501824/0RU68R3R_400x400.png" group-title="News",CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/02/15/212f5a7b-224f-4e10-be1e-7189ff0248c1/cbs11-cbs-news-texas-1920x1080.jpg" group-title="News",CBS News Texas
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
+#EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
+#EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Documentary",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://play-lh.googleusercontent.com/0KPF9HV0L0kl4pFb0vFdWJvbfEkTFsDhGXk8qSuSWlB5D9-n6tTRY3AOcoFCu48k1e5M" group-title="General",Channel 4 UK
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://play-lh.googleusercontent.com/edyGWrlQl_1g6Nl0mfhf6a8Nfef1sVn2i_y6Gf9KSAlqnylsYIVAm_WA-SwqWII-Xw" group-title="General",Channel 5 UK
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-country="SG" tvg-logo="https://i0.wp.com/detectivedonpi.com/wp-content/uploads/2022/05/CNA-logo.png?fit=1500%2C1500&ssl=1" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-country="SG" tvg-logo="https://i0.wp.com/detectivedonpi.com/wp-content/uploads/2022/05/CNA-logo.png?fit=1500%2C1500&ssl=1" group-title="News",CNA Originals
+https://amg01082-cna-amg01082c1-rakuten-us-8337.playouts.now.amagi.tv/playlist/amg01082-cnafast-cnanews-rakutenus/cb5434176570668684cb3c65cef041a8f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7252db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a1af1c56953145f596179cd619bc8180588345d773f1099c93a68bce428082c07ef802e6645a08762e9c812996932fdcb09b6d2aa37c29541550f2d1f7942c298d1d013697fecfac5afb16d88026845f3aba0b9d3deb5ae76eae0ea2ac4da8bfb4d24b5434febf311026a4f69f8bf63434b459f8aae8d37d799584721223983d8a7b7141fa92ca1097fc1193a02a86b156043dc18337fdf7d6d2b6e7dd10e94fa3c6f08b02505a750d06f435c8fc3f8c78852df094414b344c40bea545d48fdd2c76080bdf850f841548b88bc6808c573887344d58b92dd80b5d6d81653e2db67bf8cb6a6ddc2709df7457835931937deeac3acaa4d4eb123ebbcaf84efe61e8a00bd5f370cc075f5c0cb4a854352a4d79c3d162082670c040dbc7d3f1727b658694dafbc209626d4916561fb4f1f3629e8fcd201311fe5a2212327a539057d56b8a54190263984c82f44420d65f7660bef76c051769c79fe2d5d7d4ce10e429d0958853413a5d708237003067d0b3b255f02c391d103cd0551529da065e51d590c7f3ebe604aa8c76a53c385c09b7f113523655726e35989f7ac55bee9209b689b82ea69fdc4315d268fa5448c6808935abb5d997159af3c027186384ec20c1633ff814db259bd77eccc2d5657681236bf3b87ecb7cbeeeaced1fb92b8c4c225cc85d95beb295c54766d8966b16030e743476635a19218ac2f631034fdb9a20e369f6ba64994d71360676f6d3137f81ef7c3dbd145f438781c2aa8fe92031ef43d644e8670a8750200fd2ed1acba291d2dbae4e7d22fb948a7d9aaaaba0edf3eb035f2a4d11bae07e7455f10fd1af26e68f3c55c6a8a9c4fb4cb257c31499a5950fc51f81ea9d2f8fb1bed7fc5636687f76d9e0fcdb35fa9d2c6e9e5afe6c0c39bdabc5d56edafb9d2659cb7cc1a4264f8f175f7fe88ad225e90299c71c0bc6a64a5ef45503e0c1de073de9058601135cc3caa04f1ac4e22eb26cbab4d62e6dad293fc5667c409d59dba69e484ec0bb322270cc2a26ad56a5eaf87d78538fb347040b2c2d3428f4666a23cc074b860d93cfe5905001af55ab2d6b9e5c8ee37d86833acfd2ddf48cea1942a8d62337d30ac6299102ede0aede1b857f668b7d96386d87fbd9dfe0b8e686c8fe16553ab365be3ae95bb7e793a0541c3b58d1081f4409d40ae23b59729ce577eca06e4381fbf122ee3375445a3563ee3ba6bd3105420bb6c74f98fc61534b4727cbfa01913ab36e5ca560609c0c42301610766d83b0dc1cf013fd729ed56613c6aaa08775e08625ffa893c7b5582af46b076f69b8f989aec76016d483abb01449a0b127df6a743d38bdd9ad492fc7cb301cfbae8c67a8b5658e1b371e66dd82dc56a71dd367b01b35b63ad5ec727dc289232022953ae4bb1933b651e703018502ef3578ea11775256228b7198206c1828e76eb0f7a95530008a11e5526c22b9d99febcd5d5c180f454f22667b0ed14528c40c3b5cfe4653dfcbe8bbc98795003a26f95f85dcf0f72528dec3fcc4c177e74b83bfbefdafc4808d271939d45f11a56cd23303c2fd6bb149948494f9411cbaf2519e5a5d67c65a1c6096e24916082d01dcfd8d3aab46a36ac9da88f2fe67c2ad911f27508c94c67adc66d34b402f55c876afc11b37cfb0e307eb0456fabbe0cab3930cb6abd412ecf53021b783ee01c2bff15ba22c772104385c5cf56d8a79369062c789960d3374b644cbe125351acbeabf01b1ba0f756d3f2bd75a817c3a57fb136a450170ab49913abfbc355124085514b3ee3aec8ee76b557c69e1df6dba94b553825e9ce2920fb1e6685906880e5f091be7606e5e0ffdf2e2d2258d6cfcc10846a2f28fe169797dc4c906c3c67c08ace9d53bf371f0069834aa6c5d2c6de63f380dc06745025005ce7ab95db5cabcd04f1ee4c9954b58d4c00aa46d36be960844a4b221dd9212ffb10ccc3a9ce4e99b0486391aafb5ddfa3f75339d2333bec0c0f72e5a8be71810d1577e8eac44f9043e03ebf927c895f7201bc41bfe766cfddc8fe26c0a2134c5965cc1dd03a0575556517bbeca0dfac927b0bac7f9d69b6996a9400a199b6c95d978b18dbc0862e19273a3effc3b46fec17ed163f6277b9521857743df22379a6057759457a445d5baad62fafd0ab31e21b1cd3844cf743c3bf886cc13ae1e692529f26e711a250228e5ec76cdd8f4ef1d007d2b33672ef31bb6f65be746b279fed32d20dc327baf81e0dc29e986c87cfee226de4b7fab49e41ea49a019aff9554500245fd/130/1920x1080_4715744/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://pbs.twimg.com/profile_images/1999829242431811587/iTRuu0Me_400x400.jpg" group-title="News",CNBC
+https://jmp2.uk/stvp-GBBD3600001NO
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.rj5jy2SNUgvd6IOkC2C_zAHaFP?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",CNBC TV18
+https://jmp2.uk/stvp-INBD1300008ZY
+#EXTINF:-1 tvg-country="US" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-international-logo.png" group-title="News",CNN Headlines International
+https://jmp2.uk/stvp-FRBD190001055
+#EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.FXH-qzkg8TwCBvyZzdRUfQHaHa?rs=1&pid=ImgDetMain" group-title="News",CNN International
+https://jmp2.uk/stvp-CHBD800001D0
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.cnn.com/interactive/uploads/20240515-cnnoriginals.png" group-title="Documentary",CNN Originals
+https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387
+#EXTINF:-1 tvg-country="US" tvg-logo="https://deltafonts.com/wp-content/uploads/CNN-Logo.png" group-title="News",CNN US
+http://cord-cutter.net:8080/ajE2Cx/422449/1817
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS=s176-c-k-c0x00ffffff-no-rj" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-country="INT" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/01/25/6bf04681b9cd47c6f4ec14440f49a78b/logo-euronews-stacked-white-on-blue-rgb-01.png" group-title="News",Euronews
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Lifestyle",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://th.bing.com/th/id/OIP.PvDLy0KxPgO342J6ASzjTAAAAA?rs=1&pid=ImgDetMain" group-title="News",France 24
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://th.bing.com/th/id/OIP.sn8LRFNJBINZdLp2agZ3GAHaE0?rs=1&pid=ImgDetMain" group-title="News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://1.bp.blogspot.com/-HhryLwjqPEc/X-qvr6_q5II/AAAAAAAGw-o/JcBrziZurvsVy57xL5LDYGKOOMl8kQOUgCLcBGAsYHQ/s1966/S__17695007.jpg" group-title="General",GMM 25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.ggpht.com/-U0hOrXJvrFM/AAAAAAAAAAI/AAAAAAAAAAA/3HWOCW3Jof0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",JTBC News
+https://jmp2.uk/stvp-KRBC46000173Y
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.leadstory.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_white.d4deb69a.png&w=640&q=100" group-title="News",LeadStory Breaking News
+https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.O3tgIMIKBLh3iYyNvx69hwAAAA?rs=1&pid=ImgDetMain" group-title="News",LiveNOW from FOX
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+#EXTINF:-1 tvg-country="INT" tvg-logo="https://satinfo24.pl/wp-content/uploads/2021/12/Love-Nature-4K_Love-Nature-4K.png" group-title="Documentary",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MONO292025.png/960px-MONO292025.png" group-title="General",MONO 29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/03/nbcnewsnow001.jpg" group-title="News",NBC News Now
+https://jmp2.uk/stvp-CAAJ2700011IF
+#EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.qHU6uiEEg8Havwc5UP3GrAHaEK" group-title="General",NBC LX Home
+https://jmp2.uk/stvp-USBB40000028E
+#EXTINF:-1 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/featuredImage.jpg" group-title="News",News 12 New York
+https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/2.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax2
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="INT" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011.jpeg" group-title="News",NewsWorld
+https://amg01076-amg01076c23-lg-it-10070.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-newsworlditaly-lgit/playlist.m3u8
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kszV-U0y9bmmReWcZogjST1oUq5oXN0GGQz2jHlkLddmY=s900-c-k-c0x00ffffff-no-rj" group-title="News",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ntd.com/assets/uploads/2024/05/id996033-NTD-News-logo-square.png" group-title="News",NTD News
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png/revision/latest?cb=20170627120817" group-title="General",One 31 HD
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://yt3.ggpht.com/-aYssdFOsIuk/AAAAAAAAAAI/AAAAAAAAAAA/AP0Rw0bl1LA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="General",PPTV HD 36
+http://183.89.246.119:49981/stream/channelid/1801690266?profile=pass
+#EXTINF:-1 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="News",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-country="AT" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cvjoUbYTG3ajVDpIE2eySwHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sports",Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Reuters-Logo.jpg" group-title="News",Reuters Now
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://th.bing.com/th/id/OIP.5omfavuAPIbPNMmQu-MwpQHaHa?rs=1&pid=ImgDetMain" group-title="Documentary",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://th.bing.com/th/id/OIP.5omfavuAPIbPNMmQu-MwpQHaHa?rs=1&pid=ImgDetMain" group-title="News",RT News
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
+#EXTINF:-1 tvg-country="ZA" tvg-logo="https://variety.com/wp-content/uploads/2016/07/sabc-south-african-broadcasting-corporation-logo.jpg" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://mma.prnewswire.com/media/1910324/Scripps_News_Logo.jpg?p=facebook" group-title="News",Scripps News
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_5.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt589058f5ec78315a/6311d79cfe190b157474e655/Sky-News-thumb.jpg" group-title="News",Sky News UK
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
+#EXTINF:-1 tvg-country="AU" tvg-logo="https://mytunein.com/images/logos/skynewsaustralia.jpg" group-title="News",Sky News Now Australia
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-logo="https://play-lh.googleusercontent.com/qT4MM2BklRZeafU8PqVg799o8RWOJFccxx6UtgHLn4UWBG_dC8oReBAs3aEFfXfZAxg" group-title="General",Taiwan Plus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="General",Telesur English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.terramater.at/wp-content/uploads/2024/11/Terra-Mater-Wild.jpg" group-title="Documentary",Terra Mater Wild
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://www.coolstreaming.us/img/ch/ima6513360329.jpg" group-title="Kids",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.As0lXkmf5Urt0i9izSy45QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png" group-title="General",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png" group-title="News",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.E_eZ0EvkgiwSWB-IGWCuvAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
