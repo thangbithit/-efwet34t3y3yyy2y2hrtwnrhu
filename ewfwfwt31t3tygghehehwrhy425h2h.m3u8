@@ -89,7 +89,7 @@ https://jmp2.uk/stvp-USBA3400003IP
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" group-title="News",MS NOW
 http://bethoven.af-stream.com:8080/s/pxpb23h7/msnbc-us-hd/video.m3u8
-#EXTINF:-1 tvg-country="US" tvg-logo="https://yt3.ggpht.com/a/AGF-l78bPa-wU2HSwj3hik3cIe1blMeJdXT-Wb0PWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="General",NBC
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2016/08/NBC-4-New-York-Live-2.png" group-title="General",NBC New York
 http://bethoven.af-stream.com:8080/s/pxpb23h7/nbc-us-hd/video.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.qHU6uiEEg8Havwc5UP3GrAHaEK" group-title="General",NBC LX Home
 https://jmp2.uk/stvp-USBB40000028E
