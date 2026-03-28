@@ -17,14 +17,14 @@ http://183.89.246.119:49981/stream/channelid/71923341?profile=pass
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250" group-title="General",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/395/988757.jpg" group-title="General",BBC One
-http://bethoven.af-stream.com:8080/s/pxpb23h7/bbc1-uk-hd/video.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News International
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/395/988757.jpg" group-title="General",BBC One
+http://bethoven.af-stream.com:8080/s/pxpb23h7/bbc1-uk-hd/video.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/394/987477.jpg" group-title="General",BBC Two
-http://bethoven.af-stream.com:8080/s/pxpb23h7/bbc2-uk-hd/video.m3u8
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v1_hevc.mpd
 #EXTINF:-1 tvg-country="US" tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/vbTj9LK420MBOFmbWykvz/d019ea21d4c44ef6a52bc2f4e6fba3e2/BloombergOriginals_LOGO.png.d019ea21d4c44ef6a52bc2f4e6fba3e2.png" group-title="News",Bloomberg Originals
 https://live-qt-primary.global.ssl.fastly.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg" group-title="News",Bloomberg TV
@@ -77,7 +77,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://1.bp.blogspot.com/-HhryLwjqPEc/X-qvr6_q5II/AAAAAAAGw-o/JcBrziZurvsVy57xL5LDYGKOOMl8kQOUgCLcBGAsYHQ/s1966/S__17695007.jpg" group-title="General",GMM 25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.ggpht.com/-U0hOrXJvrFM/AAAAAAAAAAI/AAAAAAAAAAA/3HWOCW3Jof0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",JTBC News
+#EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.ggpht.com/-U0hOrXJvrFM/AAAAAAAAAAI/AAAAAAAAAAA/AP0Rw0bl1LA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",JTBC News
 https://jmp2.uk/stvp-KRBC46000173Y
 #EXTINF:-1 tvg-country="US" tvg-logo="https://www.leadstory.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_white.d4deb69a.png&w=640&q=100" group-title="News",LeadStory Breaking News
 https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
@@ -91,10 +91,10 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 http://bethoven.af-stream.com:8080/s/pxpb23h7/msnbc-us-hd/video.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/12/nbc-new-logo-2022.jpg" group-title="General",NBC
 http://bethoven.af-stream.com:8080/s/pxpb23h7/nbc-us-hd/video.m3u8
-#EXTINF:-1 tvg-country="US" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/03/nbcnewsnow001.jpg" group-title="News",NBC News Now
-https://jmp2.uk/stvp-CAAJ2700011IF
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.qHU6uiEEg8Havwc5UP3GrAHaEK" group-title="General",NBC LX Home
 https://jmp2.uk/stvp-USBB40000028E
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/03/nbcnewsnow001.jpg" group-title="News",NBC News Now
+https://jmp2.uk/stvp-CAAJ2700011IF
 #EXTINF:-1 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/featuredImage.jpg" group-title="News",News 12 New York
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/2.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax
@@ -125,10 +125,10 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://mma.prnewswire.com/media/1910324/Scripps_News_Logo.jpg?p=facebook" group-title="News",Scripps News
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_5.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt589058f5ec78315a/6311d79cfe190b157474e655/Sky-News-thumb.jpg" group-title="News",Sky News UK
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
 #EXTINF:-1 tvg-country="AU" tvg-logo="https://mytunein.com/images/logos/skynewsaustralia.jpg" group-title="News",Sky News Now Australia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt589058f5ec78315a/6311d79cfe190b157474e655/Sky-News-thumb.jpg" group-title="News",Sky News UK
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
 #EXTINF:-1 tvg-country="TW" tvg-logo="https://play-lh.googleusercontent.com/qT4MM2BklRZeafU8PqVg799o8RWOJFccxx6UtgHLn4UWBG_dC8oReBAs3aEFfXfZAxg" group-title="General",Taiwan Plus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="General",Telesur English
