@@ -24,7 +24,7 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/394/987477.jpg group-title="General",BBC Two
-
+http://bethoven.af-stream.com:8080/s/pxpb23h7/bbc2-uk-hd/video.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/vbTj9LK420MBOFmbWykvz/d019ea21d4c44ef6a52bc2f4e6fba3e2/BloombergOriginals_LOGO.png.d019ea21d4c44ef6a52bc2f4e6fba3e2.png" group-title="News",Bloomberg Originals
 https://live-qt-primary.global.ssl.fastly.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg" group-title="News",Bloomberg TV
