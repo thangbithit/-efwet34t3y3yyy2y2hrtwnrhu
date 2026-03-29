@@ -13,6 +13,8 @@ https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 https://jmp2.uk/stvp-IT23000034W
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.OWpH3fd9pwH9lx4-gexoGQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Amarin TV
 http://183.89.246.119:49981/stream/channelid/71923341?profile=pass
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo.jpg" group-title="General",Animal Planet
+http://de.russkoe-iptv.com:8080/s/s-vcquaco5/animal-planet-hd.m3u8
 #EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="General",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250" group-title="General",BBC Earth
@@ -59,8 +61,12 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387
 #EXTINF:-1 tvg-country="US" tvg-logo="https://deltafonts.com/wp-content/uploads/CNN-Logo.png" group-title="News",CNN US
 http://cord-cutter.net:8080/ajE2Cx/422449/1817
-#EXTINF:-1 tvg-country="EU" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel Europe
+http://de.russkoe-iptv.com:8080/s/s-vcquaco5/discovery.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel US
 http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://gavinfish.com/wp-content/uploads/2023/09/Gavin-Fish-Guest-Spots-Investigation-Discovery.jpg" group-title="General",Investigation Discovery
+http://de.russkoe-iptv.com:8080/s/s-vcquaco5/id-xtra-hd.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS=s176-c-k-c0x00ffffff-no-rj" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-country="INT" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/01/25/6bf04681b9cd47c6f4ec14440f49a78b/logo-euronews-stacked-white-on-blue-rgb-01.png" group-title="News",Euronews
@@ -129,16 +135,16 @@ https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playl
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt589058f5ec78315a/6311d79cfe190b157474e655/Sky-News-thumb.jpg" group-title="News",Sky News UK
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
-#EXTINF:-1 tvg-country="TW" tvg-logo="https://play-lh.googleusercontent.com/qT4MM2BklRZeafU8PqVg799o8RWOJFccxx6UtgHLn4UWBG_dC8oReBAs3aEFfXfZAxg" group-title="General",Taiwan Plus
+#EXTINF:-1 tvg-country="TW" tvg-logo="https://play-lh.googleusercontent.com/qT4MM2BklRZeafU8PqVg799o8RWOJFccxx6UtgHLn4UWBG_dC8oReBAs3BT2tlbBZcHHL" group-title="General",Taiwan Plus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="General",Telesur English
-https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.terramater.at/wp-content/uploads/2024/11/Terra-Mater-Wild.jpg" group-title="Documentary",Terra Mater Wild
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://www.coolstreaming.us/img/ch/ima6513360329.jpg" group-title="Kids",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.As0lXkmf5Urt0i9izSy45QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="General",Telesur English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.terramater.at/wp-content/uploads/2024/11/Terra-Mater-Wild.jpg" group-title="Documentary",Terra Mater Wild
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png" group-title="General",TVRI World
