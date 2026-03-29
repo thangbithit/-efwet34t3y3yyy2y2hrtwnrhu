@@ -21,6 +21,10 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://images.seeklogo.com/logo-png/46/1/bbc-one-logo-png_seeklogo-467177.png" group-title="General",BBC One
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7B38VC2MRGFSKX/19176/index.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://images.seeklogo.com/logo-png/46/1/bbc-two-logo-png_seeklogo-467194.png" group-title="General",BBC Two
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7B38VC2MRGFSKX/19177/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/vbTj9LK420MBOFmbWykvz/d019ea21d4c44ef6a52bc2f4e6fba3e2/BloombergOriginals_LOGO.png.d019ea21d4c44ef6a52bc2f4e6fba3e2.png" group-title="News",Bloomberg Originals
 https://live-qt-primary.global.ssl.fastly.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg" group-title="News",Bloomberg TV
@@ -65,6 +69,8 @@ https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Lifestyle",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://freelogopng.com/images/all_img/1684130562Fox_News_Channel_logo_PNG.png" group-title="News",Fox News
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7B38VC2MRGFSKX/31915/index.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://th.bing.com/th/id/OIP.PvDLy0KxPgO342J6ASzjTAAAAA?rs=1&pid=ImgDetMain" group-title="News",France 24
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://th.bing.com/th/id/OIP.sn8LRFNJBINZdLp2agZ3GAHaE0?rs=1&pid=ImgDetMain" group-title="News",GB News
