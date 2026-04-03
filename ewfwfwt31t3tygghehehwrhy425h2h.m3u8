@@ -7,7 +7,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png" group-title="General",ABC TV Australia
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-country="INT" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Comedy",AFV Family
+#EXTINF:-1 tvg-country="INT" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="General",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="News",Al Jazeera English
 https://jmp2.uk/stvp-IT23000034W
@@ -39,7 +39,7 @@ https://jmp2.uk/stvp-USBA370000104
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
-#EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Documentary",CGTN Documentary
+#EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://play-lh.googleusercontent.com/0KPF9HV0L0kl4pFb0vFdWJvbfEkTFsDhGXk8qSuSWlB5D9-n6tTRY3AOcoFCu48k1e5M" group-title="General",Channel 4 UK
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
@@ -61,7 +61,7 @@ http://89.105.221.127/CNBC/index.m3u8?token=test
 https://jmp2.uk/stvp-FRBD190001055
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.FXH-qzkg8TwCBvyZzdRUfQHaHa?rs=1&pid=ImgDetMain" group-title="News",CNN International
 http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/31301/index.m3u8
-#EXTINF:-1 tvg-country="US" tvg-logo="https://www.cnn.com/interactive/uploads/20240515-cnnoriginals.png" group-title="Documentary",CNN Originals
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.cnn.com/interactive/uploads/20240515-cnnoriginals.png" group-title="News",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387
 #EXTINF:-1 tvg-country="US" tvg-logo="https://deltafonts.com/wp-content/uploads/CNN-Logo.png" group-title="News",CNN US
 http://cord-cutter.net:8080/ajE2Cx/422449/1817
@@ -73,9 +73,9 @@ http://89.105.221.127/Discovery/index.m3u8?token=test
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-country="INT" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/01/25/6bf04681b9cd47c6f4ec14440f49a78b/logo-euronews-stacked-white-on-blue-rgb-01.png" group-title="News",Euronews
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Lifestyle",Fashion TV (1080p)
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="General",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Lifestyle",Fashion TV UHD
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="General",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://freelogopng.com/images/all_img/1684130562Fox_News_Channel_logo_PNG.png" group-title="News",Fox News
 http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/31915/index.m3u8
@@ -95,7 +95,7 @@ https://jmp2.uk/stvp-KRBC46000173Y
 https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.O3tgIMIKBLh3iYyNvx69hwAAAA?rs=1&pid=ImgDetMain" group-title="News",LiveNOW from FOX
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 tvg-country="INT" tvg-logo="https://satinfo24.pl/wp-content/uploads/2021/12/Love-Nature-4K_Love-Nature-4K.png" group-title="Documentary",Love Nature 4K
+#EXTINF:-1 tvg-country="INT" tvg-logo="https://satinfo24.pl/wp-content/uploads/2021/12/Love-Nature-4K_Love-Nature-4K.png" group-title="General",Love Nature 4K
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MONO292025.png/960px-MONO292025.png" group-title="General",MONO 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
@@ -127,11 +127,11 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 http://183.89.246.119:49981/stream/channelid/1801690266?profile=pass
 #EXTINF:-1 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="News",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-country="AT" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cvjoUbYTG3ajVDpIE2eySwHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sports",Red Bull TV
+#EXTINF:-1 tvg-country="AT" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cvjoUbYTG3ajVDpIE2eySwHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Red Bull TV
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Reuters-Logo.jpg" group-title="News",Reuters Now
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-logo="https://th.bing.com/th/id/OIP.5omfavuAPIbPNMmQu-MwpQHaHa?rs=1&pid=ImgDetMain" group-title="Documentary",RT Documentary
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://th.bing.com/th/id/OIP.5omfavuAPIbPNMmQu-MwpQHaHa?rs=1&pid=ImgDetMain" group-title="General",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-logo="https://th.bing.com/th/id/OIP.5omfavuAPIbPNMmQu-MwpQHaHa?rs=1&pid=ImgDetMain" group-title="News",RT News
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
@@ -145,13 +145,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
 #EXTINF:-1 tvg-country="TW" tvg-logo="https://play-lh.googleusercontent.com/qT4MM2BklRZeafU8PqVg799o8RWOJFccxx6UtgHLn4UWBG_dC8oReBAs3BT2tlbBZcHHL" group-title="General",Taiwan Plus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="General",Telesur English
+#EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="News",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.terramater.at/wp-content/uploads/2024/11/Terra-Mater-Wild.jpg" group-title="Documentary",Terra Mater Wild
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.terramater.at/wp-content/uploads/2024/11/Terra-Mater-Wild.jpg" group-title="General",Terra Mater Wild
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-country="TH" tvg-logo="https://www.coolstreaming.us/img/ch/ima6513360329.jpg" group-title="Kids",Thai PBS 3
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://www.coolstreaming.us/img/ch/ima6513360329.jpg" group-title="General",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-country="TH" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.As0lXkmf5Urt0i9izSy45QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Top News
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.As0lXkmf5Urt0i9izSy45QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
