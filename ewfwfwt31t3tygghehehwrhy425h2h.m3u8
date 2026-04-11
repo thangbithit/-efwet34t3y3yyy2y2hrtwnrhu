@@ -35,8 +35,8 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 https://jmp2.uk/stvp-CABC2300009KD
 #EXTINF:-1 tvg-country="US" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/77/5f/1c775f81-50c2-7fab-92da-f641ded8761a/App_Icon_-_Small-marketing.lsr/600x600bb.jpg" group-title="News",CBS News 24/7
 https://jmp2.uk/stvp-USBA370000104
-#EXTINF:-1 tvg-country="US" tvg-logo="https://pbs.twimg.com/profile_images/1642886426663501824/0RU68R3R_400x400.png" group-title="News",CBS News New York
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="hhttps://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/featuredImage.jpg" group-title="News",CBS News Sacramento
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",CGTN Documentary
