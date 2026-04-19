@@ -91,8 +91,8 @@ http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/6391/index.m3u8
 http://h8eqiwvp.otttv.pw/iptv/EM5XPTXFHNM9EX/9054/index.m3u8
 #EXTINF:-1 tvg-country="KR" tvg-logo="https://www.allkpop.com/upload/2020/09/content/162227/1600309644-20200916-jtbc.jpg" group-title="News",JTBC News
 https://jmp2.uk/stvp-KRBC46000173Y
-#EXTINF:-1 tvg-country="US" tvg-logo="https://www.leadstory.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_white.d4deb69a.png&w=640&q=100" group-title="News",LeadStory Breaking News
-https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-logo="https://images.seeklogo.com/logo-png/22/1/kbs-world-logo-png_seeklogo-222695.png" group-title="News",KBS World
+https://s07.watcher.uz/170/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.O3tgIMIKBLh3iYyNvx69hwAAAA?rs=1&pid=ImgDetMain" group-title="News",LiveNOW from FOX
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 tvg-country="INT" tvg-logo="https://satinfo24.pl/wp-content/uploads/2021/12/Love-Nature-4K_Love-Nature-4K.png" group-title="General",Love Nature 4K
@@ -101,7 +101,7 @@ https://jmp2.uk/stvp-USBA3400003IP
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" group-title="News",MS NOW
 http://89.105.221.127/MSNBC/index.m3u8?token=test
-#EXTINF:-1 tvg-country="EU" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/MTV-New-Logo.png" group-title="General",MTV US
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/MTV-New-Logo.png" group-title="General",MTV
 http://ost.mymagic.tv/lby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjY5OCIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovL3N0cjYubXltYWdpYy50b3Avc3J2My9tdHZfYmFzZV91ay92aWR/video.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://p.kindpng.com/picc/s/717-7177824_nat-geo-wild-logo-png-download-nat-geo.png" group-title="General",Nat Geo Wild
 http://de.online24.pm/play/6821/F6E1DD42544DD10/video.m3u8
