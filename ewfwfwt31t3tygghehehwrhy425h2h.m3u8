@@ -24,7 +24,7 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://images.seeklogo.com/logo-png/46/1/bbc-one-logo-png_seeklogo-467177.png" group-title="General",BBC One
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7B38VC2MRGFSKX/19176/index.m3u8
+http://u1jug3xi.ottclub.xyz/iptv/UKZQMLWPVK6RPX/19176/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://images.seeklogo.com/logo-png/46/1/bbc-two-logo-png_seeklogo-467194.png" group-title="General",BBC Two
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7B38VC2MRGFSKX/19177/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/vbTj9LK420MBOFmbWykvz/d019ea21d4c44ef6a52bc2f4e6fba3e2/BloombergOriginals_LOGO.png.d019ea21d4c44ef6a52bc2f4e6fba3e2.png" group-title="News",Bloomberg Originals
@@ -41,10 +41,6 @@ https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-logo="https://yt3.ggpht.com/-pxPxHsaWHec/AAAAAAAAAAI/AAAAAAAAAAA/l8x0mYiMm7o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://play-lh.googleusercontent.com/0KPF9HV0L0kl4pFb0vFdWJvbfEkTFsDhGXk8qSuSWlB5D9-n6tTRY3AOcoFCu48k1e5M" group-title="General",Channel 4 UK
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://play-lh.googleusercontent.com/edyGWrlQl_1g6Nl0mfhf6a8Nfef1sVn2i_y6Gf9KSAlqnylsYIVAm_WA-SwqWII-Xw" group-title="General",Channel 5 UK
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 #EXTINF:-1 tvg-country="SG" tvg-logo="https://i0.wp.com/detectivedonpi.com/wp-content/uploads/2022/05/CNA-logo.png?fit=1500%2C1500&ssl=1" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-country="SG" tvg-logo="https://i0.wp.com/detectivedonpi.com/wp-content/uploads/2022/05/CNA-logo.png?fit=1500%2C1500&ssl=1" group-title="News",CNA Originals
@@ -66,9 +62,11 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-country="US" tvg-logo="https://deltafonts.com/wp-content/uploads/CNN-Logo.png" group-title="News",CNN US
 http://cord-cutter.net:8080/ajE2Cx/422449/1817
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel Europe
-http://lb.wisp.cat/lb0/DiscoveryChannelHDEuropa/video.m3u8?token=TXWnaBlEev
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BV4SSQ9PRKF2CW/9011/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel US
-http://89.105.221.127/Discovery/index.m3u8?token=test
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BV4SSQ9PRKF2CW/6452/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCsy4atNnST4IYq74mkCpwMFC8-9QhDDg4hnA=s900-mo-c-c0xffffffff-rj-k-no" group-title="General",Discovery Family Channel
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BV4SSQ9PRKF2CW/30055/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS=s176-c-k-c0x00ffffff-no-rj" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-country="INT" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/01/25/6bf04681b9cd47c6f4ec14440f49a78b/logo-euronews-stacked-white-on-blue-rgb-01.png" group-title="News",Euronews
@@ -104,9 +102,9 @@ http://89.105.221.127/MSNBC/index.m3u8?token=test
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/MTV-New-Logo.png" group-title="General",MTV
 http://ost.mymagic.tv/lby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjY5OCIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovL3N0cjYubXltYWdpYy50b3Avc3J2My9tdHZfYmFzZV91ay92aWR/video.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://p.kindpng.com/picc/s/717-7177824_nat-geo-wild-logo-png-download-nat-geo.png" group-title="General",Nat Geo Wild
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2415/index.m3u8
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/2067/index.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Simbolo.jpg" group-title="General",National Geographic
-http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/6991/index.m3u8
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/14001/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.qHU6uiEEg8Havwc5UP3GrAHaEK" group-title="General",NBC LX Home
 https://jmp2.uk/stvp-USBB40000028E
 #EXTINF:-1 tvg-country="US" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/03/nbcnewsnow001.jpg" group-title="News",NBC News Now
