@@ -81,8 +81,6 @@ http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/31915/index.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://th.bing.com/th/id/OIP.sn8LRFNJBINZdLp2agZ3GAHaE0?rs=1&pid=ImgDetMain" group-title="News",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-country="TH" tvg-logo="https://1.bp.blogspot.com/-HhryLwjqPEc/X-qvr6_q5II/AAAAAAAGw-o/JcBrziZurvsVy57xL5LDYGKOOMl8kQOUgCLcBGAsYHQ/s1966/S__17695007.jpg" group-title="General",GMM 25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://pbs.twimg.com/profile_images/2036884463960154114/UeQABeX6_400x400.jpg" group-title="General",HGTV
 http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/6391/index.m3u8
 #EXTINF:-1 tvg-country="IL" tvg-logo="https://houseofgeekery.com/wp-content/uploads/2022/06/hiscvr.jpg" group-title="General",History Channel Israel
