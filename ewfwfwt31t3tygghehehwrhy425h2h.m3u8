@@ -61,6 +61,8 @@ https://jmp2.uk/stvp-CHBD800001D0
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387
 #EXTINF:-1 tvg-country="US" tvg-logo="https://deltafonts.com/wp-content/uploads/CNN-Logo.png" group-title="News",CNN US
 http://cord-cutter.net:8080/ajE2Cx/422449/1817
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://play-lh.googleusercontent.com/-rCwV25I22G-AKtnywuWD9V51TDQte9QQWFa7TogTQtPFSpzyzWYL6ty1L1A17GMUQ" group-title="General",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel Europe
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BV4SSQ9PRKF2CW/9011/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="General",Discovery Channel US
