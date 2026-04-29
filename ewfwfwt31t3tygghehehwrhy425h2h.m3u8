@@ -159,8 +159,6 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News" tvg-name="TRT World",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png" group-title="General" tvg-name="TVRI World",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png" group-title="News" tvg-name="WION",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.E_eZ0EvkgiwSWB-IGWCuvAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News" tvg-name="Yahoo! Finance",Yahoo! Finance
