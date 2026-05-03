@@ -119,6 +119,8 @@ https://amg01076-amg01076c23-lg-it-10070.playouts.now.amagi.tv/ts-eu-w1-n2/playl
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.ntd.com/assets/uploads/2024/05/id996033-NTD-News-logo-square.png" group-title="News",NTD News
 https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/PBS-Logo.jpg" group-title="General",PBS Travel
+https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="News",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-country="AT" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cvjoUbYTG3ajVDpIE2eySwHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",Red Bull TV
