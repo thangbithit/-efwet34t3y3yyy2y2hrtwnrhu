@@ -137,8 +137,6 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_5.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt589058f5ec78315a/6311d79cfe190b157474e655/Sky-News-thumb.jpg" group-title="News",Sky News UK
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://www.nirmalmetro.com/wp-content/uploads/2025/02/Sony-BBC-Earth-Logo-1.jpeg" group-title="General",Sony BBC Earth
-http://103.229.254.25:7001/play/a031/index.m3u8
 #EXTINF:-1 tvg-country="TW" tvg-logo="https://roc-taiwan.org/uploads/sites/29/2022/04/Taiwanplus.png" group-title="General",Taiwan Plus
 https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="News",Telesur English
