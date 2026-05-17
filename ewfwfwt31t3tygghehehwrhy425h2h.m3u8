@@ -26,9 +26,9 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://images.seeklogo.com/logo-png/46/1/bbc-one-logo-png_seeklogo-467177.png" group-title="General",BBC One
-https://11.hls.gd/ch2094/mono.m3u8?token=sinmaksim1508.v2_tOWpO6vGxv2iKCP054mxLrBRrbqIRmOn8HwZND4fEMLb4WV5fjsHjyPBApzXR0XC3Xm1yrCuLs__szM2rXc
+http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/19176/index.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://images.seeklogo.com/logo-png/46/1/bbc-two-logo-png_seeklogo-467194.png" group-title="General",BBC Two
-https://11.hls.gd/ch2095/mono.m3u8?token=sinmaksim1508.v2_fCjIpCFlZ2xG4znRQBEd2c84QVjlNlm-nSyPdwDWo1aFEU_xrF68kBpDVLXqCmVZ0eF6dMVFpi1nX8vwGgQ
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/19177/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/vbTj9LK420MBOFmbWykvz/d019ea21d4c44ef6a52bc2f4e6fba3e2/BloombergOriginals_LOGO.png.d019ea21d4c44ef6a52bc2f4e6fba3e2.png" group-title="News",Bloomberg Originals
 https://live-qt-primary.global.ssl.fastly.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg" group-title="News",Bloomberg TV
@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://gavinfish.com/wp-content/uploads/2023/09/Gavin-Fish-Guest-Spots-Investigation-Discovery.jpg" group-title="General",Investigation Discovery
 http://103.159.180.34:5001/live/3435.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WniI4oR0pOhviEuf1lHV7gHaC8?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",ITV1 UK
-https://11.hls.gd/ch1197/mono.m3u8?token=sinmaksim1508.v2_Rimqq8SoE-b13OHei_j2yRLVIeIebAc7So3M4ODSa6xQ9Sv9egrc_JWj-sATjROwWjtKngyN84ikWQQTaWE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/D4WWHMT9VMU2MW/19185/index.m3u8
 #EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYneSzNh7_fxCLOOkFxVaMDd55aFmPFY9NvFb_i-R8EKjE=s900-c-k-c0x00ffffff-no-rj" group-title="General",KBS World
 https://s07.watcher.uz/170/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.O3tgIMIKBLh3iYyNvx69hwAAAA?rs=1&pid=ImgDetMain" group-title="News",LiveNOW from FOX
