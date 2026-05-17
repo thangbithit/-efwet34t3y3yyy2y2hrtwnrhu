@@ -99,10 +99,14 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 http://89.105.221.127/MSNBC/index.m3u8?token=test
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/MTV-New-Logo.png" group-title="General",MTV
 http://mains.services/live/0228902066/tc674KJ3du/1d50e7a0-7882-431e-87d9-e8e09f907b09.m3u
+#EXTINF:-1 tvg-country="PL" tvg-logo="https://www.kindpng.com/picc/m/559-5591566_nat-geo-people-hd-png-download.png" group-title="General",Nat Geo People
+http://itimat.xyz:8080/burgervan25/BPzGFbGn6c2a/348335
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://p.kindpng.com/picc/s/717-7177824_nat-geo-wild-logo-png-download-nat-geo.png" group-title="General",Nat Geo Wild
 http://103.157.248.140:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Simbolo.jpg" group-title="General",National Geographic
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Simbolo.jpg" group-title="General",National Geographic India
 http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-country="PL" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Simbolo.jpg" group-title="General",National Geographic Poland
+http://itimat.xyz:8080/burgervan25/BPzGFbGn6c2a/348339
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.qHU6uiEEg8Havwc5UP3GrAHaEK" group-title="General",NBC LX Home
 https://jmp2.uk/stvp-USBB40000028E
 #EXTINF:-1 tvg-country="US" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/03/nbcnewsnow001.jpg" group-title="News",NBC News Now
