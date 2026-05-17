@@ -7,7 +7,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 #EXTINF:-1 tvg-country="AU" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png" group-title="General",ABC TV Australia
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-country="INT" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="General",AFV Family
+#EXTINF:-1 tvg-country="US" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="General",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="News",Al Jazeera English
 https://jmp2.uk/stvp-IT23000034W
@@ -67,7 +67,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/9326/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS=s176-c-k-c0x00ffffff-no-rj" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-country="INT" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/01/25/6bf04681b9cd47c6f4ec14440f49a78b/logo-euronews-stacked-white-on-blue-rgb-01.png" group-title="News",Euronews
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/01/25/6bf04681b9cd47c6f4ec14440f49a78b/logo-euronews-stacked-white-on-blue-rgb-01.png" group-title="News",Euronews
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="General",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -91,7 +91,7 @@ https://11.hls.gd/ch1197/mono.m3u8?token=sinmaksim1508.v2_Rimqq8SoE-b13OHei_j2yR
 https://s07.watcher.uz/170/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.O3tgIMIKBLh3iYyNvx69hwAAAA?rs=1&pid=ImgDetMain" group-title="News",LiveNOW from FOX
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 tvg-country="INT" tvg-logo="https://satinfo24.pl/wp-content/uploads/2021/12/Love-Nature-4K_Love-Nature-4K.png" group-title="General",Love Nature 4K
+#EXTINF:-1 tvg-country="CA" tvg-logo="https://satinfo24.pl/wp-content/uploads/2021/12/Love-Nature-4K_Love-Nature-4K.png" group-title="General",Love Nature 4K
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MONO292025.png/960px-MONO292025.png" group-title="General",MONO 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
@@ -141,6 +141,8 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_5.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt589058f5ec78315a/6311d79cfe190b157474e655/Sky-News-thumb.jpg" group-title="News",Sky News UK
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_AI_SD.png" group-title="General",Sony BBC Earth
+http://xott.live/live/397552783/652792017/109978.m3u8
 #EXTINF:-1 tvg-country="TW" tvg-logo="https://roc-taiwan.org/uploads/sites/29/2022/04/Taiwanplus.png" group-title="General",Taiwan Plus
 https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 #EXTINF:-1 tvg-country="VE" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="News",Telesur English
