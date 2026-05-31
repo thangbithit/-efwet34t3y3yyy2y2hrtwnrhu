@@ -20,7 +20,7 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250" group-title="General",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://media.info/l/o/1/1103.1635541188.png" group-title="General",BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+http://wickediptv.xyz:80/live/1c0770c0c79b697e/0000/204535.m3u
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News International
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://i.pinimg.com/564x/0f/53/3e/0f533e97e37a6113a40a8ea4c6f72cbb.jpg" group-title="News",BBC News UK
@@ -82,7 +82,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 #EXTINF:-1 tvg-country="US" tvg-logo="https://static0.thethingsimages.com/wordpress/wp-content/uploads/2024/09/hgtv-network-logo.jpeg" group-title="General",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.6XhLl1yvvzRe6-X_fyz7xAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",History TV18
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+http://best8k.top/live/397552783/652792017/206295.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://gavinfish.com/wp-content/uploads/2023/09/Gavin-Fish-Guest-Spots-Investigation-Discovery.jpg" group-title="General",Investigation Discovery
 http://103.159.180.34:5001/live/3435.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WniI4oR0pOhviEuf1lHV7gHaC8?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="General",ITV1 UK
