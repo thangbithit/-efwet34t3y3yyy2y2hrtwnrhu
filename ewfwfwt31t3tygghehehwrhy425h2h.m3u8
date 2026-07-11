@@ -97,8 +97,6 @@ https://jmp2.uk/stvp-USBA3400003IP
 http://89.105.221.127/MSNBC/index.m3u8?token=test
 #EXTINF:-1 tvg-country="US" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/MTV-New-Logo.png" group-title="General",MTV
 http://mains.services/live/0228902066/tc674KJ3du/1d50e7a0-7882-431e-87d9-e8e09f907b09.m3u
-#EXTINF:-1 tvg-country="IN" tvg-logo="https://p.kindpng.com/picc/s/717-7177824_nat-geo-wild-logo-png-download-nat-geo.png" group-title="General",Nat Geo Wild
-http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Simbolo.jpg" group-title="General",National Geographic
 https://ranapkbd.site/RANAPK33k/TVD/play.php?id=373324
 #EXTINF:-1 tvg-country="US" tvg-logo="https://th.bing.com/th/id/OIP.qHU6uiEEg8Havwc5UP3GrAHaEK" group-title="General",NBC LX Home
@@ -151,6 +149,8 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png" group-title="General",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://play-lh.googleusercontent.com/gPnEB5NUgQqfJWAX3iOa3529G_CpO5zuyS4yHiRZaOXU7YtFAuM4RyP6_DbLBEuG7Hg" group-title="General",Viju Nature
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/15225/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.E_eZ0EvkgiwSWB-IGWCuvAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",Yahoo! Finance
