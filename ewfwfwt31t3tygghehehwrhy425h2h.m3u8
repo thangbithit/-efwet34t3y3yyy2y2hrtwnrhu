@@ -11,8 +11,8 @@ https://c.mjh.nz/abc-act.m3u8
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="News",Al Jazeera English
 https://jmp2.uk/stvp-IT23000034W
-#EXTINF:-1 tvg-country="EU" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo.jpg" group-title="General",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo.jpg" group-title="General",Animal Planet
+http://66.102.126.10:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-country="KR" tvg-logo="https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="General",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png/revision/latest?cb=20241015194250" group-title="General",BBC Earth
