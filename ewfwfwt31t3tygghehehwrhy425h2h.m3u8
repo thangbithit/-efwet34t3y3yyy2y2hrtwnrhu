@@ -143,6 +143,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
 #EXTINF:-1 tvg-country="TH" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.As0lXkmf5Urt0i9izSy45QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/01/14112115/Travelxp_worlds_leading.jpg" group-title="General",TravelXP
+http://66.102.126.10:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png" group-title="General",TVRI World
