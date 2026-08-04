@@ -151,6 +151,8 @@ http://66.102.126.10:8000/play/a075/index.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png" group-title="General",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://play-lh.googleusercontent.com/gPnEB5NUgQqfJWAX3iOa3529G_CpO5zuyS4yHiRZaOXU7YtFAuM4RyP6_DbLBEuG7Hg" group-title="General",Viju Explore
+http://vn0x2nwy.streamoras.top/iptv/EAMZWV3TFEVWL3/9075/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-logo="https://play-lh.googleusercontent.com/gPnEB5NUgQqfJWAX3iOa3529G_CpO5zuyS4yHiRZaOXU7YtFAuM4RyP6_DbLBEuG7Hg" group-title="General",Viju Nature
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/15225/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png" group-title="News",WION
