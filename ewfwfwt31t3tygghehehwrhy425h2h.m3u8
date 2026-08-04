@@ -59,8 +59,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_c
 http://cord-cutter.net:8080/ajE2Cx/422449/1817
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="General",Discovery Channel India
 http://202.77.139.255:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-country="US" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="General",Discovery Channel US
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="General",Discovery Channel Europe
+http://vn0x2nwy.streamoras.top/iptv/EAMZWV3TFEVWL3/9011/index.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="General",Discovery Science
 https://tinyurl.com/aleks-u-romki-40/9326/index.m3u8
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS=s176-c-k-c0x00ffffff-no-rj" group-title="News",DW English
