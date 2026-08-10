@@ -57,8 +57,10 @@ https://jmp2.uk/stvp-DEBD800001S4
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387
 #EXTINF:-1 tvg-country="US" tvg-logo="https://deltafonts.com/wp-content/uploads/CNN-Logo.png" group-title="News",CNN US
 http://cord-cutter.net:8080/ajE2Cx/422449/1817
-#EXTINF:-1 tvg-country="EU" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="General",Discovery Channel
+#EXTINF:-1 tvg-country="EU" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="General",Discovery Channel Europe
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/227/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="General",Discovery Channel India
+https://go.skym3u.top/live/3b1f0d3d095a7020171700081b081a022c7d1613130611705e5944537c320815670c282500373b4e0a0403046d231011110d152c571f0b0e6b5c4b634706.m3u8
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/960px-Discovery_Life_logo_2016.svg.png" group-title="General",Discovery Life
 http://redworld.pro:8880/Luis@9902/GZ6JSwhrmS7c/452648
 #EXTINF:-1 tvg-country="EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="General",Discovery Science
